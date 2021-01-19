@@ -1,0 +1,14 @@
+
+Geweer::
+Groen: 3915437507
+Blauw: 854656239
+Rood: 543851703
+Geel: 2001751733
+
+Afstandsbediening::
+Groen: 553627727
+Blauw: 553644047
+Rood: 553635887
+Geel: 553611407
+AAN/UIT: 553603247
+Knop 2: 553601207
